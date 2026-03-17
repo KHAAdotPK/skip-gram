@@ -1,0 +1,18 @@
+#!/bin/bash
+# Navigate to the lib directory
+cd "$(dirname "$0")"
+
+# Cloning dependencies
+git clone https://github.com/KHAAdotPK/String.git
+git clone https://github.com/KHAAdotPK/parser.git
+git clone https://github.com/KHAAdotPK/ala_exception.git
+git clone https://github.com/KHAAdotPK/allocator.git
+git clone https://github.com/KHAAdotPK/sundry.git
+git clone https://github.com/KHAAdotPK/argsv-cpp.git
+git clone https://github.com/KHAAdotPK/corpus.git
+git clone https://github.com/KHAAdotPK/Numcy.git
+git clone https://github.com/KHAAdotPK/csv.git
+git clone https://github.com/KHAAdotPK/read_write_weights.git
+git clone https://github.com/KHAAdotPK/pairs.git
+
+echo "All dependencies cloned successfully."
