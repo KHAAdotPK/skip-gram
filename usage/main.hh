@@ -84,7 +84,7 @@
 //#include "../lib/sundry/cooked_read_new.hh"
 //#include "../lib/sundry/cooked_write_new.hh"
 //#include "../lib/read_write_weights/header.hh"
-#include "../lib/WordEmbedding-Algorithms/Word2Vec/skip-gram/header.hh"
+#include "../lib/WordEmbedding-Algorithms/Word2Vec/Skip-gram/header.hh"
 
 #define COMMAND "h -h help --help ? /? (Displays the help screen, listing available commands and their descriptions.)\n\
 v -v version --version /v (Shows the current version of the software.)\n\
