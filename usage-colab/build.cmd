@@ -1,0 +1,1 @@
+cl /EHsc /std:c++20 /Tp main.cu
